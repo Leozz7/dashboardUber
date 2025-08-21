@@ -30,31 +30,31 @@ uberData/
 
 ### 🔹 Tela Inicial
 
-![Tela Inicial](https://github.com/seu-usuario/uber-bi/blob/main/imagens/TelaInicial.jpg)
+![Tela Inicial](dashboardUber/imagens/TelaInicial.png)
 
 ---
 
 ### 🔹 Visão Geral
 
-![Visão Geral](https://github.com/seu-usuario/uber-bi/blob/main/imagens/VisaoGeral.png)
+![Visão Geral](dashboardUber/imagens/VisaoGeral.png)
 
 ---
 
 ### 🔹 Financeiro
 
-![Financeiro](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Financeiro.png)
+![Financeiro](dashboardUber/imagens/Financeiro.png)
 
 ---
 
 ### 🔹 Clientes
 
-![Clientes](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Clientes.png)
+![Clientes](dashboardUber/imagens/Clientes.png)
 
 ---
 
 ### 🔹 Veículos
 
-![Veículo](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Veiculo.png)
+![Veículo](dashboardUber/imagens/Veiculo.png)
 
 ---
 
