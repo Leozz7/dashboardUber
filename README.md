@@ -77,6 +77,6 @@ uberData/
 
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido por **\Leozz7** como estudo de **Business Intelligence e Data Analytics**.
+Projeto desenvolvido por **/Leozz7** como estudo de **Business Intelligence e Data Analytics**.
 
 💡 Se gostou do projeto, deixe uma ⭐ no repositório!
