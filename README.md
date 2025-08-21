@@ -75,26 +75,8 @@ uberData/
 
 ---
 
-## 📎 Como Usar
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/uber-bi.git
-   ```
-2. Abra o arquivo `ProjetoBI-Uber.pbix` no Power BI Desktop.
-3. Explore os dashboards interativos.
-
----
-
-## 📸 Prévia do Projeto
-
-![Preview](https://github.com/seu-usuario/uber-bi/blob/main/imagens/VisaoGeral.png)
-
----
-
 ## 🧑‍💻 Autor
 
-Projeto desenvolvido por **\[Seu Nome]** como estudo de **Business Intelligence e Data Analytics**.
+Projeto desenvolvido por **\Leozz7** como estudo de **Business Intelligence e Data Analytics**.
 
 💡 Se gostou do projeto, deixe uma ⭐ no repositório!
