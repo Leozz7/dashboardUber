@@ -30,39 +30,39 @@ uberData/
 
 ### 🔹 Tela Inicial
 
-![Tela Inicial](dashboardUber/imagens/TelaInicial.png)
+![Tela Inicial](uberData/imagens/TelaInicial.png)
 
 ---
 
 ### 🔹 Visão Geral
 
-![Visão Geral](dashboardUber/imagens/VisaoGeral.png)
+![Visão Geral](uberData/imagens/VisaoGeral.png)
 
 ---
 
 ### 🔹 Financeiro
 
-![Financeiro](dashboardUber/imagens/Financeiro.png)
+![Financeiro](uberData/imagens/Financeiro.png)
 
 ---
 
 ### 🔹 Clientes
 
-![Clientes](dashboardUber/imagens/Clientes.png)
+![Clientes](uberData/imagens/Clientes.png)
 
 ---
 
 ### 🔹 Veículos
 
-![Veículo](dashboardUber/imagens/Veiculo.png)
+![Veículo](uberData/imagens/Veiculo.png)
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Power BI** → Desenvolvimento dos dashboards
-* **Excel** → Tratamento e organização de dados
-* **Figma** → Protótipo visual
+[![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-Data-green)](https://www.microsoft.com/excel)
+[![Figma](https://img.shields.io/badge/Figma-Design-red)](https://www.figma.com/)
 
 ---
 
