@@ -60,9 +60,9 @@ uberData/
 
 ## 🚀 Tecnologias Utilizadas
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Data-blue)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-Data-green)](https://www.microsoft.com/excel)
-[![Figma](https://img.shields.io/badge/Figma-Design-red)](https://www.figma.com/)
+* **Power BI** → Desenvolvimento dos dashboards
+* **Excel** → Tratamento e organização de dados
+* **Figma** → Protótipo visual
 
 ---
 
