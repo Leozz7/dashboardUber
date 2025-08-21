@@ -1,2 +1,100 @@
-# dashboardUber
-📊 Dashboard interativo no Power BI para análise de dados da Uber, com foco em clientes, veículos, finanças e visão geral do negócio.
+# 🚖 Projeto BI - Uber
+
+Este repositório apresenta um **Dashboard de Business Intelligence (BI)** desenvolvido a partir de dados simulados de corridas da Uber. O objetivo é analisar **comportamento de clientes, veículos e finanças**, além de fornecer uma **visão geral interativa** do negócio.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+uberData/
+│
+├── arquivos/           # Arquivos do projeto (Excel e Power BI)
+│   ├── ProjetoBI-Uber.pbix
+│   ├── baseUberExcel1.xlsx
+│   └── ncr_ride_bookings.csv
+│
+├── imagens/            # Capturas de tela dos dashboards
+│   ├── TelaInicial.jpg
+│   ├── VisaoGeral.png
+│   ├── Financeiro.png
+│   ├── Clientes.png
+│   └── Veiculo.png
+│
+└── templateFigma/      # Protótipo visual criado no Figma
+```
+
+---
+
+## 📊 Dashboards Desenvolvidos
+
+### 🔹 Tela Inicial
+
+![Tela Inicial](https://github.com/seu-usuario/uber-bi/blob/main/imagens/TelaInicial.jpg)
+
+---
+
+### 🔹 Visão Geral
+
+![Visão Geral](https://github.com/seu-usuario/uber-bi/blob/main/imagens/VisaoGeral.png)
+
+---
+
+### 🔹 Financeiro
+
+![Financeiro](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Financeiro.png)
+
+---
+
+### 🔹 Clientes
+
+![Clientes](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Clientes.png)
+
+---
+
+### 🔹 Veículos
+
+![Veículo](https://github.com/seu-usuario/uber-bi/blob/main/imagens/Veiculo.png)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+* **Power BI** → Desenvolvimento dos dashboards
+* **Excel** → Tratamento e organização de dados
+* **Figma** → Protótipo visual
+
+---
+
+## 📌 Principais Insights
+
+* **Métricas Gerais**: total de corridas, percentual concluído e cancelamentos.
+* **Financeiro**: ticket médio, receita concluída vs perdida e métodos de pagamento.
+* **Clientes**: avaliações, principais motivos de cancelamento.
+* **Veículos**: análise de desempenho por categoria.
+
+---
+
+## 📎 Como Usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/uber-bi.git
+   ```
+2. Abra o arquivo `ProjetoBI-Uber.pbix` no Power BI Desktop.
+3. Explore os dashboards interativos.
+
+---
+
+## 📸 Prévia do Projeto
+
+![Preview](https://github.com/seu-usuario/uber-bi/blob/main/imagens/VisaoGeral.png)
+
+---
+
+## 🧑‍💻 Autor
+
+Projeto desenvolvido por **\[Seu Nome]** como estudo de **Business Intelligence e Data Analytics**.
+
+💡 Se gostou do projeto, deixe uma ⭐ no repositório!
