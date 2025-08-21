@@ -30,7 +30,7 @@ uberData/
 
 ### 🔹 Tela Inicial
 
-![Tela Inicial](uberData/imagens/TelaInicial.png)
+![Tela Inicial](uberData/imagens/TelaInicial.jpg)
 
 ---
 
