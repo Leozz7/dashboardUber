@@ -4,7 +4,6 @@ Este repositório apresenta um Dashboard de Business Intelligence (BI) desenvolv
 
 O objetivo é analisar comportamento de clientes, veículos e finanças, além de fornecer uma visão geral interativa do negócio, apoiando insights estratégicos.
 
-📂 Estrutura do Projeto
 uberData/
 │
 ├── arquivos/           # Arquivos do projeto (Excel e Power BI)
