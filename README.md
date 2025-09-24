@@ -1,7 +1,3 @@
-Perfeito 🚀 Já montei o **README completo** com os caminhos prontos para você apenas **copiar e colar no GitHub** (sem precisar ajustar nada).
-
----
-
 # 🚖 Projeto BI - Uber
 
 Este repositório apresenta um **Dashboard de Business Intelligence (BI)** desenvolvido a partir de dados simulados de corridas da **Uber** (extraídos do Kaggle).
