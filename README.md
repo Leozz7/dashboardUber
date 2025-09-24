@@ -123,8 +123,3 @@ Projeto desenvolvido por **[@Leozz7](https://github.com/Leozz7)** como estudo de
 ## 💡 Contribuição
 
 Se gostou do projeto, deixe uma ⭐ no repositório para apoiar o trabalho!
-
----
-
-👉 Já deixei os caminhos das imagens prontos no formato `imagens/...` (relativos à pasta do README).
-Quer que eu também monte uma **versão curta** (tipo portfólio) para você usar no LinkedIn ou no topo do GitHub?
