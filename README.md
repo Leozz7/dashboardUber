@@ -42,31 +42,31 @@ uberData/
 
 ### 🔹 Tela Inicial
 
-![Tela Inicial](imagens/TelaInicial.jpg)
+![Tela Inicial](uberData/imagens/TelaInicial.jpg)
 
 ---
 
 ### 🔹 Visão Geral
 
-![Visão Geral](imagens/VisaoGeral.png)
+![Visão Geral](uberData/imagens/VisaoGeral.png)
 
 ---
 
 ### 🔹 Financeiro
 
-![Financeiro](imagens/Financeiro.png)
+![Financeiro](uberData/imagens/Financeiro.png)
 
 ---
 
 ### 🔹 Clientes
 
-![Clientes](imagens/Clientes.png)
+![Clientes](uberData/imagens/Clientes.png)
 
 ---
 
 ### 🔹 Veículos
 
-![Veículo](imagens/Veiculo.png)
+![Veículo](uberData/imagens/Veiculo.png)
 
 ---
 
@@ -76,23 +76,23 @@ As medidas foram organizadas em **quatro pastas principais** para melhor navega�
 
 ### 📌 Cancelamento
 
-![Cancelamento](imagens/medidas/Cancelamento.png)
+![Cancelamento](uberData/imagens/medidas/Cancelamento.png)
 
 ### 📌 Distância
 
-![Distância](imagens/medidas/Distancia.png)
+![Distância](uberData/imagens/medidas/Distancia.png)
 
 ### 📌 Receita
 
-![Receita](imagens/medidas/Receita.png)
+![Receita](uberData/imagens/medidas/Receita.png)
 
 ### 📌 Tempo
 
-![Tempo](imagens/medidas/Tempo.png)
+![Tempo](uberData/imagens/medidas/Tempo.png)
 
 ### 📌 Corridas
 
-![Corridas](imagens/medidas/Corridas.png)
+![Corridas](uberData/imagens/medidas/Corridas.png)
 
 ---
 
